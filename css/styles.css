@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "elpepe";
+    src: url("../src/fonts/TheGirlNextDoor-Regular.ttf");
+}
+
+h1{
+    font-family: "elpepe";
+}
+
+#img {
+    background-color: blue;
+}
