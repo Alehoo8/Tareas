@@ -8,5 +8,13 @@ h1{
 }
 
 #img {
-    background-color: blue;
+    background-color: gold;
+}
+.font{
+
+    font-family: "elpepe";
+}
+
+.color{
+    background-color: blanchedalmond;
 }
